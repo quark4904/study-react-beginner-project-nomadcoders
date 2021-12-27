@@ -21,6 +21,7 @@ function UseEffectTest() {
   }, [counter, keyword]);
   return (
     <div>
+      <hr />
       <input
         type="text"
         placeholder="search..."
@@ -29,6 +30,7 @@ function UseEffectTest() {
       />
       <h1>{counter}</h1>
       <button onClick={onClick}>Click me</button>
+      <hr />
     </div>
   );
 }
