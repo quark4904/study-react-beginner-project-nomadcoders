@@ -15,7 +15,6 @@ function App() {
     setTodos((current) => [note, ...current]);
     setNote("");
   };
-  console.log(todos);
   return (
     <div>
       <h1>My To Dos (numbers: {todos.length})</h1>
@@ -28,6 +27,12 @@ function App() {
         />
         <button>Add to do</button>
       </form>
+      <hr />
+      <ul>
+        {todos.map((item, index) => (
+          <li key={index}>{item}</li>
+        ))}
+      </ul>
     </div>
   );
 }
