@@ -1,6 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import App from "./ToDoList/App";
+import App from "./CoinTracker/App";
 
 ReactDOM.render(
   <React.StrictMode>
