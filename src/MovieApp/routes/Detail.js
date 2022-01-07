@@ -18,9 +18,9 @@ function Detail() {
 
   useEffect(() => {
     getMovies();
-  }, []);
+  });
 
-  return <h1>Detail</h1>;
+  return <h1>Deatil</h1>;
 }
 
 export default Detail;
