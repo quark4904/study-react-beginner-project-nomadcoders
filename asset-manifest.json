@@ -1,13 +1,10 @@
 {
   "files": {
-    "main.css": "/study-react-beginner-project-nomadcoders/static/css/main.acb9134a.css",
-    "main.js": "/study-react-beginner-project-nomadcoders/static/js/main.8767e9d0.js",
+    "main.js": "/study-react-beginner-project-nomadcoders/static/js/main.d503dc51.js",
     "index.html": "/study-react-beginner-project-nomadcoders/index.html",
-    "main.acb9134a.css.map": "/study-react-beginner-project-nomadcoders/static/css/main.acb9134a.css.map",
-    "main.8767e9d0.js.map": "/study-react-beginner-project-nomadcoders/static/js/main.8767e9d0.js.map"
+    "main.d503dc51.js.map": "/study-react-beginner-project-nomadcoders/static/js/main.d503dc51.js.map"
   },
   "entrypoints": [
-    "static/css/main.acb9134a.css",
-    "static/js/main.8767e9d0.js"
+    "static/js/main.d503dc51.js"
   ]
 }
